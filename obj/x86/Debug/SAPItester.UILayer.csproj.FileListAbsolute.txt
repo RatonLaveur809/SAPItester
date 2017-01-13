@@ -1,0 +1,12 @@
+D:\work\SAPItester\SAPItest.UILayer\bin\Debug\SAPItest.UILayer.exe
+D:\work\SAPItester\SAPItest.UILayer\bin\Debug\SAPItest.UILayer.pdb
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItest.UILayer.MainForm.resources
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItest.UILayer.exe
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItest.UILayer.pdb
+D:\work\SAPItester\SAPItest.UILayer\bin\Debug\SAPItester.BysnesLayer.dll
+D:\work\SAPItester\SAPItest.UILayer\bin\Debug\SAPItester.BysnesLayer.pdb
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\Interop.SpeechLib.dll
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItester.UILayer.csproj.ResolveComReference.cache

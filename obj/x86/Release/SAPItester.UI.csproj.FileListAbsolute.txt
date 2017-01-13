@@ -1,0 +1,11 @@
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Release\Interop.SpeechLib.dll
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Release\SAPItester.UI.csproj.ResolveComReference.cache
+D:\work\SAPItester\SAPItest.UILayer\bin\Release\SAPItest.UILayer.exe
+D:\work\SAPItester\SAPItest.UILayer\bin\Release\SAPItest.UILayer.pdb
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Release\SAPItest.UILayer.MainForm.resources
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Release\SAPItester.UI.csproj.GenerateResource.Cache
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Release\SAPItest.UILayer.exe
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Release\SAPItest.UILayer.pdb
+C:\Documents and Settings\Admin\Рабочий стол\SAPItester-3\SAPItest.UILayer\obj\x86\Release\SAPItester.UI.csproj.ResolveComReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\SAPItester-3\SAPItest.UILayer\obj\x86\Release\SAPItest.UILayer.exe
+C:\Documents and Settings\Admin\Рабочий стол\SAPItester-3\SAPItest.UILayer\obj\x86\Release\SAPItest.UILayer.pdb

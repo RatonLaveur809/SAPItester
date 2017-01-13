@@ -1,0 +1,8 @@
+D:\work\SAPItester\SAPItest.UILayer\bin\Debug\SAPItest.UILayer.exe
+D:\work\SAPItester\SAPItest.UILayer\bin\Debug\SAPItest.UILayer.pdb
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\Interop.SpeechLib.dll
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItester.UI.csproj.ResolveComReference.cache
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItest.UILayer.MainForm.resources
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItest.UILayer.exe
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItest.UILayer.pdb
+D:\work\SAPItester\SAPItest.UILayer\obj\x86\Debug\SAPItester.UI.csproj.GenerateResource.Cache
